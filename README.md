@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @FlorianHegele
+- 👀 I'm interested in programming
+- 🌱 I'm learning JavaScript
